@@ -4,7 +4,7 @@ import { Bars3Icon, BellIcon, XMarkIcon } from '@heroicons/react/24/outline'
 
 const navigation = [
   { name: 'Front-End', href: '/Frontend', current: true },
-  { name: 'Python', href: '#', current: false },
+  { name: 'Python', href: '/Python', current: false },
   { name: 'C', href: '#', current: false },
   { name: 'C++', href: '#', current: false },
   { name: 'Java', href: '#', current: false },
